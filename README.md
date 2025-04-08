@@ -3,8 +3,6 @@
 
 A simple front-end clone of the popular online learning platform **Udemy**, built using **HTML** and **CSS**. This project replicates the basic UI and layout of the Udemy homepage and course listings.
 
-## 🌐 Live Demo
-
 [Click here to view the live site](#)  
 *(Add your GitHub Pages or live hosting link here)*
 
